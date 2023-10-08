@@ -67,9 +67,7 @@ const editors: ILinuxExternalEditor[] = [
   },
   {
     name: 'VSCodium (Insiders)',
-    paths: [
-      '/usr/bin/codium-insiders'
-    ],
+    paths: ['/usr/bin/codium-insiders'],
   },
   {
     name: 'Sublime Text',
